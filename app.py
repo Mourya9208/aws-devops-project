@@ -12,7 +12,7 @@ def home():
         </head>
         <body>
             <h1>AWS DevOps Deployment 🚀</h1>
-            <p>Application is running successfully with automated CI/CD.</p>
+            <p>Application version 3 is running.</p>
             <p>Built with Flask, Docker, GitHub Actions and AWS EKS.</p>
         </body>
     </html>
